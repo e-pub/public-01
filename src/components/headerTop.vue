@@ -1,6 +1,6 @@
 <template>
   <header>
-      <h1>LOGO</h1>
+      <h1>LOGO:서울시청</h1>
   </header>
 </template>
 
