@@ -1,6 +1,6 @@
 <template>
   <header>
-      <h1>LOGO</h1>
+      <h1>LOGOType</h1>
   </header>
 </template>
 
