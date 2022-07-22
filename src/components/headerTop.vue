@@ -7,6 +7,7 @@
         <li>menu-3</li>
         <li>menu-4</li>
       </ul><!--//top-menu-right/right-->
+      <h1>LOGOType</h1>
   </header>
 </template>
 
