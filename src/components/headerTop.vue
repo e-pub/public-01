@@ -1,6 +1,6 @@
 <template>
   <header>
-      <h1 class="logo">LOGO:서울시청</h1>
+      <h1 class="logo">LOGO:서울시청111</h1>
       <ul class="top-menu-right right">
         <li>menu-1</li>
         <li>menu-2</li>
